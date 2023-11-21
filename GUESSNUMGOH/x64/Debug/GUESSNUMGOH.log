@@ -1,0 +1,3 @@
+﻿  GUESSNUMGOH.cpp
+D:\AluCiclesGS1\Visual Studio 2022\GUESSNUMGOH\GUESSNUMGOH\GUESSNUMGOH.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  GUESSNUMGOH.vcxproj -> D:\AluCiclesGS1\Visual Studio 2022\GUESSNUMGOH\x64\Debug\GUESSNUMGOH.exe
